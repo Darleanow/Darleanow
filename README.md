@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Darleanow
-- 👀 I’m interested in dev and security
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Game development.
 - 🌱 I’m currently learning C++
 - 📫 How to reach me : e.hugonnier@cerberis.com (Pro only)
