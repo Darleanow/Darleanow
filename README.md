@@ -1,4 +1,16 @@
-- 👋 Hi, I’m @Darleanow
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Game development.
-- 🌱 I’m currently learning C++
-- 📫 How to reach me : e.hugonnier@cerberis.com (Pro only)
+```cpp
+struct Human
+{
+  int age;
+  unsigned long long lines_written;
+  char name[25];
+}
+
+int main()
+{
+  Human human;
+  human.age = 19;
+  human.lines_written = 28;
+  human.name = "Enzo";
+}  
+```
