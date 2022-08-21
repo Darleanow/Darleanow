@@ -1,10 +1,10 @@
 ```cpp
-struct Human
+struct
 {
   int age;
   unsigned long long lines_written;
   char name[25];
-}
+} Human;
 
 int main()
 {
