@@ -6,7 +6,7 @@ struct
   unsigned long long lines_written;
 } Human;
 
-int main()
+int main(int argc,char *argv[])
 {
   Human human;
   human.name = "Enzo";
