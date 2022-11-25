@@ -1,7 +1,7 @@
 ```cpp
-struct
+typedef struct
 {
-  char name[25];
+  char *name;
   int age;
   unsigned long long lines_written;
 } Human;
@@ -12,5 +12,5 @@ int main(int argc,char *argv[])
   human.name = "Enzo";
   human.age = 19;
   human.lines_written = 28;
-}  
+} 
 ```
