@@ -1,12 +1,12 @@
 ```cpp
 typedef struct
 {
-  char *name;
+  std::string name;
   int age;
   unsigned long long lines_written;
 } Human;
 
-int main(int argc,char *argv[])
+int main(int argc,char **argv)
 {
   Human human;
   human.name = "Enzo";
