@@ -1,9 +1,11 @@
 ```cpp
+#include <gmpxx.h>
+
 typedef struct
 {
   std::string name;
   int age;
-  unsigned long long lines_written;
+  mpz_class lines_written;
 } Human;
 
 int main(int argc,char **argv)
