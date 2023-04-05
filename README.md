@@ -1,5 +1,6 @@
 ```cpp
 #include <gmpxx.h>
+#include <string>
 
 typedef struct
 {
