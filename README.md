@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [darleanow.dev](darleanow.dev)
 
-- 📝 I regularly write articles on [HashNode]((https://darleanews.hashnode.dev/))
+- 📝 I regularly write articles on [HashNode](https://darleanews.hashnode.dev/)
 
 - 💬 Ask me about **C++, React**
 
