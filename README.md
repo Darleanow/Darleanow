@@ -1,5 +1,23 @@
 # 💫 About Me:
-I'm currently working on Alcia<br>I'm looking to collaborate in software development<br>I'm currently learning C++ advanced concepts
+- 🔭 I’m currently working on [Alcia 4.0]((https://www.darleanow.dev/projects/alcia4))
+
+- 🌱 I’m currently learning **C++ advanced concepts**
+
+- 👯 I’m looking to collaborate on **Software development projects**
+
+- 🤝 I’m looking for help with **C++ advanced concepts**
+
+- 👨‍💻 All of my projects are available at [darleanow.dev](darleanow.dev)
+
+- 📝 I regularly write articles on [HashNode]((https://darleanews.hashnode.dev/))
+
+- 💬 Ask me about **C++, React**
+
+- 📫 How to reach me **contact@darleanow.dev**
+
+- 📄 Know about my experiences [SOON](SOON)
+
+- ⚡ Fun fact **I love on liners but not doing those because they ruin the code.**
 
 
 ## 🌐 Socials:
