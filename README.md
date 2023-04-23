@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Enzo</h1>
+<h3 align="center">A never sleeping dev.</h3>
+
 # 💫 About Me:
 - 🔭 I’m currently working on [Alcia 4.0]((https://www.darleanow.dev/projects/alcia4))
 
