@@ -20,8 +20,6 @@
 
 - 📄 Know about my experiences [SOON](SOON)
 
-- ⚡ Fun fact **I love on liners but not doing those because they ruin the code.**
-
  
  
 # 🌐 Socials:
