@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [Alcia 4.0]((https://www.darleanow.dev/projects/alcia4))
 
-- 🌱 I’m currently learning **C++ advanced concepts**
+- 🌱 I’m currently learning **SFML**
 
 - 👯 I’m looking to collaborate on **Software development projects**
 
