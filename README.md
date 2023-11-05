@@ -2,21 +2,17 @@
 <h3 align="center">A never sleeping dev.</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Alcia 4.0]((https://www.darleanow.dev/projects/alcia4))
+- 🔭 I’m currently working on my portfolio
 
-- 🌱 I’m currently learning **SFML**
+- 🌱 I’m currently learning WASM, QT, and some embedded (esp32, arduino based) !
 
 - 👯 I’m looking to collaborate on **Software development projects**
 
-- 🤝 I’m looking for help with **C++ advanced concepts**
-
-- 👨‍💻 All of my projects are available at [darleanow.dev](https://darleanow.dev)
-
-- 📝 I regularly write articles on [HashNode](https://darleanews.hashnode.dev/)
+- 📝 I regularly (used to) write articles on [HashNode](https://darleanews.hashnode.dev/)
 
 - 💬 Ask me about **C++, React**
 
-- 📫 How to reach me **contact@darleanow.dev**
+- 📫 How to reach me **hugonnierenzo@gmail.com**
 
 - 📄 Know about my experiences [SOON](SOON)
 
