@@ -4,9 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on my portfolio
 
-- 🌱 I’m currently learning WASM, QT, and some embedded (esp32, arduino based) !
-
-- 👯 I’m looking to collaborate on **Software development projects**
+- 🌱 I’m currently learning Unity, Qt, and Operating Systems !
 
 - 📝 I regularly (used to) write articles on [HashNode](https://darleanews.hashnode.dev/)
 
