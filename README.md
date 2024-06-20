@@ -8,7 +8,7 @@
 
 - 📝 I regularly (used to) write articles on [HashNode](https://darleanews.hashnode.dev/)
 
-- 💬 Ask me about **C++, React**
+- 💬 Ask me about **C++, React(Especially i18n, Next)**
 
 - 📫 How to reach me **hugonnierenzo@gmail.com**
 
