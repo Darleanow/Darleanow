@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **contact@darleanow.com**
 
-- 📄 My portfolio: [Darleanow.com](https://darleanow.com/]
+- 📄 My portfolio: [Darleanow.com](https://darleanow.com/)
 
  
  
