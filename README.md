@@ -2,7 +2,7 @@
 <h3 align="center">A never sleeping dev.</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently on Alcia
 
 - 🌱 I’m currently learning Unity, Qt, and Operating Systems !
 
@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **C++, React(Especially i18n, Next)**
 
-- 📫 How to reach me **hugonnierenzo@gmail.com**
+- 📫 How to reach me **contact@darleanow.com**
 
-- 📄 Know about my experiences [SOON](SOON)
+- 📄 My portfolio: [Darleanow.com](https://darleanow.com/]
 
  
  
