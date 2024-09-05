@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently on Alcia
 
-- 🌱 I’m currently learning Unity, Qt, and Operating Systems !
+- 🌱 I’m currently learning software design, architecture !
 
 - 📝 I regularly (used to) write articles on [HashNode](https://darleanews.hashnode.dev/)
 
