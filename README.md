@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 🔭 I’m currently on Alcia<br><br>
-- 🌱 I’m currently learning software design, architecture !<br><br>
+- 🌱 I’m currently learning software design, architecture<br><br>
 - 📝 I regularly (used to) write articles on [HashNode](https://darleanews.hashnode.dev/)<br><br>
-- 💬 Ask me about **C++, React(Especially i18n, Next)**<br><br>
-- 📫 How to reach me **contact@darleanow.com**<br><br>
+- 💬 Ask me about C++ <br><br>
+- 📫 How to reach me: contact@darleanow.com<br><br>
 - 📄 My portfolio: [Darleanow.com](https://darleanow.com/)
 
 
