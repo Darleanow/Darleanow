@@ -1,3 +1,5 @@
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo2b3RzeGkyMTRrdWVubGdoY2ttMzl4cDN4bXQ4d2k5cnB3dXFrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoBwYBdIztLgIYujMC/giphy.webp)
+
 # 💫 About Me:
 - 🔭 I’m currently on [Alcia](https://github.com/Darleanow/Alcia)<br><br>
 - 🌱 I’m currently learning software design, architecture<br><br>
