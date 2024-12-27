@@ -15,6 +15,7 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,arch,atom,bash,c,cpp,clion,cmake,css,debian,devto,discord,django,docker,express,figma,firebase,git,github,githubactions,gitlab,html,idea,js,kali,linkedin,linux,md,mysql,nextjs,nodejs,notion,npm,obsidian,powershell,pycharm,py,qt,sass,tailwind,ts,ubuntu,unity,unreal,vercel,vim,visualstudio,vscode,windows" />
   </a>
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Darleanow&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Darleanow&theme=tokyonight&hide_border=false)<br/>
