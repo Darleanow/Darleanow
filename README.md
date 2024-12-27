@@ -1,4 +1,4 @@
-![]([https://mir-s3-cdn-cf.behance.net/project_modules/1400/f481c7193984031.65f468d9a0b5d.gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/641c2b170466977.645e34a7760bf.gif))
+![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/641c2b170466977.645e34a7760bf.gif)
 
 # 💫 About Me:
 - 🔭 I’m currently on [Alcia](https://github.com/Darleanow/Alcia)<br><br>
