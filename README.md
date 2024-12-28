@@ -12,7 +12,7 @@ education:
     "Master's in Software Engineering (running)",
     "Diploma @ 42 school (todo)",
   ]
-company: Soulber
+company: Pyramide
 
 fields_of_interests:
   [
