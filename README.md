@@ -35,7 +35,7 @@ hobbies: ["Chess", "Sports", "Art", "Comedy"]
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arch,atom,bash,c,cpp,clion,cmake,css,debian,devto,discord,django,docker,express,figma,firebase,git,github,githubactions,gitlab,html,idea,js,kali,linkedin,linux,md,mysql,nextjs,nodejs,notion,npm,obsidian,powershell,pycharm,py,qt,sass,tailwind,ts,ubuntu,unity,unreal,vercel,vim,visualstudio,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=arch,bash,c,cpp,cmake,git,github,githubactions,gitlablinux,md,mysql,nextjs,obsidian,qt,ubuntu,unreal,vim,visualstudio,vscode" />
   </a>
 </p>
 
