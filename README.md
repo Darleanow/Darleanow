@@ -10,19 +10,17 @@ education:
     "Self-Taught",
     "Bachelor in Software development",
     "Master's in Software Engineering (running)",
-    "Diploma @ 42 school (todo)",
   ]
 company: Pyramide
 
 fields_of_interests:
   [
     "Software Development (CLI/GUI)",
-    "UI/UX",
     "Game Development",
   ]
 technical_background:
   [
-    "Intern - Pyramide - C++ UE5 Game Developer",
+    "Intern - Pyramide - C++ UE5 Lead Game Developer",
     "Intern - BioLogic - C++ software dev, Qt6",
     "Intern - Cerberis - IAM, AD Tiering, Software Solution Expert (Resource Central)",
   ]
